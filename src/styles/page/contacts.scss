@@ -118,7 +118,8 @@
         &__input {
 
           &__el {
-            max-width: 280px;
+            margin: 0 auto;
+            width: 280px;
             font-size: 16px;
             line-height: 150%;
             border: 0;
@@ -134,7 +135,8 @@
           }
   
           &__el-last {
-            max-width: 280px;
+            margin: 0 auto;
+            width: 280px;
             padding-top: 90px;
           }
         }
